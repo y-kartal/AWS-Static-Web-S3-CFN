@@ -135,8 +135,4 @@ Kittens Carousel is a static website application deployed on AWS Simple Storage 
 
 - Nice to have >>>>  Upload object using CFN 
 
-## Resource
 
-- [AWS Cloudformation User Guide](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
-
-- [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
